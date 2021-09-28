@@ -1,0 +1,17 @@
+.form {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.form :nth-child(1) {
+  /* background-color: cadetblue; */
+  border: none;
+  border-radius: 2px;
+}
+
+.form :nth-child(2) {
+  color: brown;
+}

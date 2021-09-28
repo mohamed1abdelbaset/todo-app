@@ -1,0 +1,15 @@
+.del {
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.listitems {
+  display: flex;
+  justify-content: space-between;
+  margin: 7px;
+  background-color: burlywood;
+  padding: 6px;
+  overflow: auto;
+}
